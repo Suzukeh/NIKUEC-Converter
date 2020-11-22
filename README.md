@@ -22,9 +22,9 @@
 
 + 左上の「パッケージ化されていない拡張機能を読み込む」からNIKUEConverterフォルダを選択して読み込む
 
-以上で拡張機能"MIKUEC"と書いてあるサイト(https://mikuec.com/2020/ とか)を開くと，[冒頭の画像](NIKUEC.png)のようになります．ちなみにもとのサイトはこうなってます．
+以上で拡張機能"MIKUEC"と書いてあるサイト(https://mikuec.com/2020/ とか)を開くと，[冒頭の画像](NIKUEC.png)のようになります．ちなみに比較するとこんな感じです．
 
-![MIKUEC](MIKUEC.png)
+![比較](https://user-images.githubusercontent.com/49985092/99900779-00628b80-2cf5-11eb-8b5b-d9a878cd0dd5.png)
 
 ## 仕組み
 
