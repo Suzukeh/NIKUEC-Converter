@@ -12,15 +12,15 @@
 
 ## 使い方
 
-0. NIKUEConverterフォルダを適当にダウンロード
+1. NIKUEConverterフォルダを適当にダウンロード
 
-0. Chrome拡張機能のページ(chrome://extensions/)を開く
+1. Chrome拡張機能のページ(chrome://extensions/)を開く
 
-0. 右上のデベロッパーモードのトグルをオンにする
+1. 右上のデベロッパーモードのトグルをオンにする
 
 ![デベロッパーモード](https://user-images.githubusercontent.com/49985092/99900568-8a115980-2cf3-11eb-8390-b760df9d72e4.png)
 
-0. 左上の「パッケージ化されていない拡張機能を読み込む」からNIKUEConverterフォルダを選択して読み込む
+4. 左上の「パッケージ化されていない拡張機能を読み込む」からNIKUEConverterフォルダを選択して読み込む
 
 以上でインストールできたので，"NIKUEC"と書いてあるサイト(https://nikuec.com/2020/ とか)を開くと[冒頭の画像](NIKUEC.png)のようになります．ちなみに比較するとこんな感じです．
 
