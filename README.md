@@ -12,7 +12,7 @@
 
 ## 使い方
 
-+ NIKUECerフォルダを適当にダウンロード
++ NIKUEConverterフォルダを適当にダウンロード
 
 + Chrome拡張機能のページ(chrome://extensions/)を開く
 
@@ -20,7 +20,7 @@
 
 ![デベロッパーモード](https://user-images.githubusercontent.com/49985092/99900568-8a115980-2cf3-11eb-8390-b760df9d72e4.png)
 
-+ 左上の「パッケージ化されていない拡張機能を読み込む」からNIKUECerを選択して読み込む
++ 左上の「パッケージ化されていない拡張機能を読み込む」からNIKUEConverterフォルダを選択して読み込む
 
 以上で拡張機能"MIKUEC"と書いてあるサイト(https://mikuec.com/2020/ とか)を開くと，冒頭の画像のようになります．ちなみにもとのサイトはこうなってます．
 
