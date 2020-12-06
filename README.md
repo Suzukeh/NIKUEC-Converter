@@ -33,12 +33,22 @@ NIKUEC is a joke at the live. "Niku" means a meat in Japanese and its spell and 
 
 ## 使い方
 
+1. `NIKUEConverter`フォルダを適当にダウンロード
+
+1. Chrome拡張機能のページ(chrome://extensions/)を開く
+
+1. 右上のデベロッパーモードのトグルをオンにする
+
+![デベロッパーモード](https://user-images.githubusercontent.com/49985092/99900568-8a115980-2cf3-11eb-8390-b760df9d72e4.png)
+
+4. 左上の「パッケージ化されていない拡張機能を読み込む」からNIKUEConverterフォルダを選択して読み込む
 
 
 以上でインストールできたので，"MIKUEC"等と書いてあるサイト(https://mikuec.com/2020/ とか)を開くと[冒頭の画像](NIKUEC.png)のようになります．ちなみに比較するとこんな感じです．
 
 ![比較](https://user-images.githubusercontent.com/49985092/99900779-00628b80-2cf5-11eb-8b5b-d9a878cd0dd5.png)
 
+<!--
 ***
 **以下はストア公開前の方法です.ただ不便なだけですが，一応これでもできます．**
 
@@ -52,7 +62,7 @@ NIKUEC is a joke at the live. "Niku" means a meat in Japanese and its spell and 
 
 4. 左上の「パッケージ化されていない拡張機能を読み込む」からNIKUEConverterフォルダを選択して読み込む
 ***
-
+-->
 ## 仕組み
 
 正規表現で
