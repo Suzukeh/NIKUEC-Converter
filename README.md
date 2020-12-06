@@ -13,7 +13,7 @@ NIKUEC is a joke at the live. "Niku" means a meat in Japanese and its spell and 
 
 **NIKUEC is a fan-made Niku live event!!!**
 
-## How to use
+## How to Use
 1. Download the `NIKUEConverter` folder
 1. Open Chrome Extension Setting in **More tools > Extensions** (chrome://extensions/)
 1. Toggle ON the Developer mode
