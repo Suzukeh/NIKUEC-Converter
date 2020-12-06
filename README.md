@@ -1,18 +1,48 @@
+[MIKUEC]:https://mikuec.com/2020/
+
+# NIKUEC Converter
+NIKUEC Converter is a chrome extension to change a story in a website from [MIKUEC] to NIKUEC with converting by using regular expression.
+
+It is optimized for Japanese texts.
+
+## MIKUEC
+MIKUEC is a fan-made Miku (and other vocaloid) live event by "Virtual Live Lab", The University of Electro-Communications Official Circle. This year, we held the live in virtual world to avoid a risk of COVID-19. The detailed English introduction about [MIKUEC2020][MIKUEC] is in [VocaSphere](https://vocasphere.net/2020/11/miku-ec-fan-made-livestream-announced-for-this-month/). 
+
+## NIKUEC?
+NIKUEC is a joke at the live. "Niku" means a meat in Japanese and its spell and sound like MIKU. So we had a barbecue at the on-stage banter. 
+
+**NIKUEC is a fan-made Niku live event!!!**
+
+## How to use
+1. Download the `NIKUEConverter` folder
+1. Open Chrome Extension Setting in **More tools > Extensions** (chrome://extensions/)
+1. Toggle ON the Developer mode
+1. load `NIKUEConverter` as unpackaged extension
+
 # NIKUECコンバーター
 
-任意のページの「MIKUEC」についての話を「NIKUEC」の話にしてしまうChrome拡張機能です．
+任意のページの「[MIKUEC]」についての話を「NIKUEC」の話にしてしまうChrome拡張機能です．
 
 ![NIKUEC](NIKUEC.png)
 
 ## 目的
 
-11/21に開催された[MIKUEC2020](https://mikuec.com/2020/)(ボカロのライブ)においてMCのネタとして登場したパワーワード，それが**NIKUEC**です．ちなみに初代代表の[渾身のネタ](https://twitter.com/yuzu_movie_39/status/1148244704531628033?s=20)らしいです．
+11/21に開催された[MIKUEC2020][MIKUEC](ファンメイドボカロライブ)においてMCのネタとして登場したパワーワード，それが**NIKUEC**です．ちなみに初代代表の[渾身のネタ](https://twitter.com/yuzu_movie_39/status/1148244704531628033?s=20)らしいです．
 
 ともかく，このVLLの一大焼き肉イベントである**NIKUEC**で一大ライブイベントMIKUECを侵食してみたかったというのが動機であり，目的です．
 
 ## 使い方
 
-1. NIKUEConverterフォルダを適当にダウンロード
+
+
+以上でインストールできたので，"MIKUEC"等と書いてあるサイト(https://mikuec.com/2020/ とか)を開くと[冒頭の画像](NIKUEC.png)のようになります．ちなみに比較するとこんな感じです．
+
+![比較](https://user-images.githubusercontent.com/49985092/99900779-00628b80-2cf5-11eb-8b5b-d9a878cd0dd5.png)
+
+***
+**以下はストア公開前の方法です.ただ不便なだけですが，一応これでもできます．**
+
+1. `NIKUEConverter`フォルダを適当にダウンロード
 
 1. Chrome拡張機能のページ(chrome://extensions/)を開く
 
@@ -21,10 +51,7 @@
 ![デベロッパーモード](https://user-images.githubusercontent.com/49985092/99900568-8a115980-2cf3-11eb-8390-b760df9d72e4.png)
 
 4. 左上の「パッケージ化されていない拡張機能を読み込む」からNIKUEConverterフォルダを選択して読み込む
-
-以上でインストールできたので，"MIKUEC"等と書いてあるサイト(https://mikuec.com/2020/ とか)を開くと[冒頭の画像](NIKUEC.png)のようになります．ちなみに比較するとこんな感じです．
-
-![比較](https://user-images.githubusercontent.com/49985092/99900779-00628b80-2cf5-11eb-8b5b-d9a878cd0dd5.png)
+***
 
 ## 仕組み
 
@@ -50,7 +77,7 @@
 
 ~~たいていは再読み込みで回復せず，一旦ウィンドウごと閉じないとだめっぽいです．~~
 
-現状1つのサイトごとに1回しか置換をしないようなので，下にスクロールしていってからロードされる文章には適用されないことになります．拡張機能の管理から再読み込みをしてください．
+現状1つのタブごとに1回しか置換をしないようなので，下にスクロールしていってからロードされる文章には適用されないことになります．拡張機能の管理から再読み込みをしてください．
 
 ![image](https://user-images.githubusercontent.com/49985092/99905191-c4d6ba00-2d12-11eb-9c3d-15397884f7e3.png)
 
