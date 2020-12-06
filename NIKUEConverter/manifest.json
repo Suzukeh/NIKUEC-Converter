@@ -1,20 +1,21 @@
 {
-"manifest_version": 2,
-"description" : "Convert MIKUEC into NIKUEC",
-"name": "NIKUECコンバーター",
-"version": "0.29",
-"content_scripts": [
-{
-    "matches": [
-    "<all_urls>"
-    ],
-    "js": [
-    "nikueconverter.js"
-    ]
+	"manifest_version": 2,
+	"description" : "An extension to convert a story from MIKUEC into NIKUEC",
+	"name": "NIKUECコンバーター",
+	"short_name": "NIKUEConv",
+	"version": "1.2.9",
+	"icons": {
+	    "16": "icon16.png",
+	    "48": "icon48.png",
+	    "128": "icon128.png"
+	},
+	"permissions": [
+	    "activeTab"
+	],
+	"content_scripts": [
+		{
+		    "matches": ["<all_urls>"],
+		    "js": ["nikueconverter.js"]
+		}
+	]
 }
-],
-  "permissions": [
-    "<all_urls>"
-  ]
-}
-
