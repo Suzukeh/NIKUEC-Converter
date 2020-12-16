@@ -14,10 +14,8 @@ NIKUEC is a joke at the live. "Niku" means a meat in Japanese and its spell and 
 **NIKUEC is a fan-made Niku live event!!!**
 
 ## How to Use
-1. Download the `NIKUEConverter` folder
-1. Open Chrome Extension Setting in **More tools > Extensions** (chrome://extensions/)
-1. Toggle ON the Developer mode
-1. load `NIKUEConverter` as unpackaged extension
+1. Add the extension from [NIKUECコンバーター](https://chrome.google.com/webstore/detail/nikuec%E3%82%B3%E3%83%B3%E3%83%90%E3%83%BC%E3%82%BF%E3%83%BC/gjbgkgkildonmlkggcnenebkeigddkpf)
+1. Visit some websites such as (https://mikuec.com/2020/)
 
 # NIKUECコンバーター
 
@@ -32,25 +30,11 @@ NIKUEC is a joke at the live. "Niku" means a meat in Japanese and its spell and 
 ともかく，このVLLの一大焼き肉イベントである**NIKUEC**で一大ライブイベントMIKUECを侵食してみたかったというのが動機であり，目的です．
 
 ## 使い方
-
-1. `NIKUEConverter`フォルダを適当にダウンロード
-
-1. Chrome拡張機能のページ(chrome://extensions/)を開く
-
-1. 右上のデベロッパーモードのトグルをオンにする
-
-![デベロッパーモード](https://user-images.githubusercontent.com/49985092/99900568-8a115980-2cf3-11eb-8390-b760df9d72e4.png)
-
-4. 左上の「パッケージ化されていない拡張機能を読み込む」からNIKUEConverterフォルダを選択して読み込む
-
-
-以上でインストールできたので，"MIKUEC"等と書いてあるサイト(https://mikuec.com/2020/ とか)を開くと[冒頭の画像](NIKUEC.png)のようになります．ちなみに比較するとこんな感じです．
+Chromeウェブストアで「NIKUEC」と検索，または[こちら](https://chrome.google.com/webstore/detail/nikuec%E3%82%B3%E3%83%B3%E3%83%90%E3%83%BC%E3%82%BF%E3%83%BC/gjbgkgkildonmlkggcnenebkeigddkpf)からChromeに追加して，"MIKUEC"等と書いてあるサイト(https://mikuec.com/2020/ とか)を開いてみてください．これで[冒頭の画像](NIKUEC.png)のようになります．ちなみに比較するとこんな感じです．
 
 ![比較](https://user-images.githubusercontent.com/49985092/99900779-00628b80-2cf5-11eb-8b5b-d9a878cd0dd5.png)
 
-<!--
-***
-**以下はストア公開前の方法です.ただ不便なだけですが，一応これでもできます．**
+以下はストア公開前の方法です．ただ不便なだけですが，一応これでもできます．
 
 1. `NIKUEConverter`フォルダを適当にダウンロード
 
@@ -61,8 +45,7 @@ NIKUEC is a joke at the live. "Niku" means a meat in Japanese and its spell and 
 ![デベロッパーモード](https://user-images.githubusercontent.com/49985092/99900568-8a115980-2cf3-11eb-8390-b760df9d72e4.png)
 
 4. 左上の「パッケージ化されていない拡張機能を読み込む」からNIKUEConverterフォルダを選択して読み込む
-***
--->
+
 ## 仕組み
 
 正規表現で
@@ -87,13 +70,20 @@ NIKUEC is a joke at the live. "Niku" means a meat in Japanese and its spell and 
 
 ~~たいていは再読み込みで回復せず，一旦ウィンドウごと閉じないとだめっぽいです．~~
 
-現状1つのタブごとに1回しか置換をしないようなので，下にスクロールしていってからロードされる文章には適用されないことになります．拡張機能の管理から再読み込みをしてください．
+現状1つのタブごとに1回しか置換をしないようなので，下にスクロールしていってからロードされる文章には適用されないことになります．~~拡張機能の管理から再読み込みをしてください．~~
 
-![image](https://user-images.githubusercontent.com/49985092/99905191-c4d6ba00-2d12-11eb-9c3d-15397884f7e3.png)
+一旦オフにしてから再読み込みを祈ってください．
+
+![image](https://user-images.githubusercontent.com/49985092/102385754-926a6500-4011-11eb-8428-c6ee8aa1bc1b.png)
+
 
 + 編集してる文字も書き換えられる
 
 このREADME作ってるときにも置換が動作したので，気をつけてください．不安な場合はアクセスの許可を「拡張機能をクリックしたとき」にしておくといいと思います．
+
+## UPDATE
+
++ 12/17 Chromeウェブストアで公開されたことを確認
 
 ## 参考
 
