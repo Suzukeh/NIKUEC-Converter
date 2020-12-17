@@ -9,7 +9,7 @@ It is optimized for Japanese texts.
 MIKUEC is a fan-made Miku (and other vocaloid) live event by "Virtual Live Lab", The University of Electro-Communications Official Circle. This year, we held the live in virtual world to avoid a risk of COVID-19. The detailed English introduction about [MIKUEC2020][MIKUEC] is in [VocaSphere](https://vocasphere.net/2020/11/miku-ec-fan-made-livestream-announced-for-this-month/). 
 
 ## NIKUEC?
-NIKUEC is a joke at the live. "Niku" means a meat in Japanese and its spell and sound like MIKU. So we had a barbecue at the on-stage banter. 
+NIKUEC is a joke at the live. "Niku" means a meat in Japanese and its spell and sound are like MIKU. So we had a barbecue at the on-stage banter. 
 
 **NIKUEC is a fan-made Niku live event!!!**
 
