@@ -30,7 +30,7 @@ NIKUEC is a joke at the live. "Niku" means a meat in Japanese and its spell and 
 ともかく，このVLLの一大焼き肉イベントである**NIKUEC**で一大ライブイベントMIKUECを侵食してみたかったというのが動機であり，目的です．
 
 ## 使い方
-Chromeウェブストアで「NIKUEC」と検索，または[こちら](https://chrome.google.com/webstore/detail/nikuec%E3%82%B3%E3%83%B3%E3%83%90%E3%83%BC%E3%82%BF%E3%83%BC/gjbgkgkildonmlkggcnenebkeigddkpf)からChromeに追加して，"MIKUEC"等と書いてあるサイト(https://mikuec.com/2020/ とか)を開いてみてください．これで[冒頭の画像](NIKUEC.png)のようになります．ちなみに比較するとこんな感じです．
+Chromeウェブストアで「NIKUEC」と検索，または[NIKUECコンバーター](https://chrome.google.com/webstore/detail/nikuec%E3%82%B3%E3%83%B3%E3%83%90%E3%83%BC%E3%82%BF%E3%83%BC/gjbgkgkildonmlkggcnenebkeigddkpf)からChromeに追加して，"MIKUEC"等と書いてあるサイト(https://mikuec.com/2020/ とか)を開いてみてください．これで[冒頭の画像](NIKUEC.png)のようになります．ちなみに比較するとこんな感じです．
 
 ![比較](https://user-images.githubusercontent.com/49985092/99900779-00628b80-2cf5-11eb-8b5b-d9a878cd0dd5.png)
 
@@ -80,6 +80,9 @@ Chromeウェブストアで「NIKUEC」と検索，または[こちら](https://
 + 編集してる文字も書き換えられる
 
 このREADME作ってるときにも置換が動作したので，気をつけてください．不安な場合はアクセスの許可を「拡張機能をクリックしたとき」にしておくといいと思います．
+
++ Chrome拡張機能のManifest Ver.3 は未対応です
+
 
 ## UPDATE
 
