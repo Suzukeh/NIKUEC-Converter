@@ -1,6 +1,6 @@
 [MIKUEC]:https://mikuec.com/2020/
 
-# NIKUEC Converter
+# [NIKUEC Converter](https://chrome.google.com/webstore/detail/nikuec%E3%82%B3%E3%83%B3%E3%83%90%E3%83%BC%E3%82%BF%E3%83%BC/gjbgkgkildonmlkggcnenebkeigddkpf)
 NIKUEC Converter is a chrome extension to change a story in a website from [MIKUEC] to NIKUEC with converting by using regular expression.
 
 It is optimized for Japanese texts.
