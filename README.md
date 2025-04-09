@@ -1,21 +1,4 @@
-[MIKUEC]:https://mikuec.com/2020/
-
-# [NIKUEC Converter](https://chrome.google.com/webstore/detail/nikuec%E3%82%B3%E3%83%B3%E3%83%90%E3%83%BC%E3%82%BF%E3%83%BC/gjbgkgkildonmlkggcnenebkeigddkpf)
-NIKUEC Converter is a chrome extension to change a story in a website from [MIKUEC] to NIKUEC with converting by using regular expression.
-
-It is optimized for Japanese texts.
-
-## MIKUEC
-MIKUEC is a fan-made Miku (and other vocaloid) live event by "Virtual Live Lab", The University of Electro-Communications Official Circle. This year, we held the live in virtual world to avoid a risk of COVID-19. The detailed English introduction about [MIKUEC2020][MIKUEC] is in [VocaSphere](https://vocasphere.net/2020/11/miku-ec-fan-made-livestream-announced-for-this-month/). 
-
-## NIKUEC?
-NIKUEC is a joke at the live. "Niku" means a meat in Japanese and its spell and sound are like MIKU. So we had a barbecue at the on-stage banter. 
-
-**NIKUEC is a fan-made Niku live event!!!**
-
-## How to Use
-1. Add the extension from [NIKUECコンバーター](https://chrome.google.com/webstore/detail/nikuec%E3%82%B3%E3%83%B3%E3%83%90%E3%83%BC%E3%82%BF%E3%83%BC/gjbgkgkildonmlkggcnenebkeigddkpf)
-1. Visit some websites such as (https://mikuec.com/2020/)
+[MIKUEC2020]:https://mikuec.com/2020/
 
 # NIKUECコンバーター
 
@@ -81,15 +64,33 @@ Chromeウェブストアで「NIKUEC」と検索，または[NIKUECコンバー�
 
 このREADME作ってるときにも置換が動作したので，気をつけてください．不安な場合はアクセスの許可を「拡張機能をクリックしたとき」にしておくといいと思います．
 
-+ Chrome拡張機能のManifest Ver.3 は未対応です
-
 
 ## UPDATE
 
 + 2020/12/17 Chromeウェブストアで公開されたことを確認
++ 2025/04/09 [コンバーター](https://github.com/GoogleChromeLabs/extension-manifest-converter)でManifest V3 に移行
 
 ## 参考
 
 + [Chrome拡張の作り方 (超概要)](https://qiita.com/RyBB/items/32b2a7b879f21b3edefc#%E3%82%B3%E3%83%BC%E3%83%89-1)
 + [Chrome 拡張機能を作ろう実践編](http://www2.kobe-u.ac.jp/~tnishida/programming/ChromeExtension-02.html#regexp)
 
+
+en
+
+# [NIKUEC Converter](https://chrome.google.com/webstore/detail/nikuec%E3%82%B3%E3%83%B3%E3%83%90%E3%83%BC%E3%82%BF%E3%83%BC/gjbgkgkildonmlkggcnenebkeigddkpf)
+NIKUEC Converter is a chrome extension to change a story in a website from [MIKUEC] to NIKUEC with converting by using regular expression.
+
+It is optimized for Japanese texts.
+
+## MIKUEC
+MIKUEC is a fan-made Miku (and other vocaloid) live event by "Virtual Live Lab", The University of Electro-Communications Official Circle. This year, we held the live in virtual world to avoid a risk of COVID-19. The detailed English introduction about [MIKUEC2020][MIKUEC] is in [VocaSphere](https://vocasphere.net/2020/11/miku-ec-fan-made-livestream-announced-for-this-month/). 
+
+## NIKUEC?
+NIKUEC is a joke at the live. "Niku" means a meat in Japanese and its spell and sound are like MIKU. So we had a barbecue at the on-stage banter. 
+
+**NIKUEC is a fan-made Niku live event!!!**
+
+## How to Use
+1. Add the extension from [NIKUECコンバーター](https://chrome.google.com/webstore/detail/nikuec%E3%82%B3%E3%83%B3%E3%83%90%E3%83%BC%E3%82%BF%E3%83%BC/gjbgkgkildonmlkggcnenebkeigddkpf)
+1. Visit some websites such as (https://mikuec.com/2020/)

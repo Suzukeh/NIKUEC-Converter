@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "description": "Converting the story about MIKUEC into about NIKUEC.",
+  "description": "VLLの焼き肉といえば、NIKUEC",
   "name": "NIKUEC\u30b3\u30f3\u30d0\u30fc\u30bf\u30fc",
   "short_name": "NIKUEConv",
   "version": "0.2.9",
