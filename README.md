@@ -1,14 +1,12 @@
-[MIKUEC2020]:https://mikuec.com/2020/
-
 # NIKUECコンバーター
 
-任意のページの「[MIKUEC]」についての話を「NIKUEC」の話にしてしまうChrome拡張機能です．
+任意のページの「[MIKUEC](https://mikuec.com/)」についての話を「NIKUEC」の話にしてしまうChrome拡張機能です．
 
 ![NIKUEC](NIKUEC.png)
 
 ## 目的
 
-11/21に開催された[MIKUEC2020][MIKUEC](ファンメイドボカロライブ)においてMCのネタとして登場したパワーワード，それが**NIKUEC**です．ちなみに初代代表の[渾身のネタ](https://twitter.com/yuzu_movie_39/status/1148244704531628033?s=20)らしいです．
+11/21に開催された[MIKUEC2020][https://mikuec.com/2020](ファンメイドボカロライブ)においてMCのネタとして登場したパワーワード，それが**NIKUEC**です．ちなみに初代代表の[渾身のネタ](https://twitter.com/yuzu_movie_39/status/1148244704531628033?s=20)らしいです．
 
 ともかく，このVLLの一大焼き肉イベントである**NIKUEC**で一大ライブイベントMIKUECを侵食してみたかったというのが動機であり，目的です．
 
@@ -68,7 +66,7 @@ Chromeウェブストアで「NIKUEC」と検索，または[NIKUECコンバー�
 ## UPDATE
 
 + 2020/12/17 Chromeウェブストアで公開されたことを確認
-+ 2025/04/09 [コンバーター](https://github.com/GoogleChromeLabs/extension-manifest-converter)でManifest V3 に移行
++ 2025/04/09 [コンバーター](https://github.com/GoogleChromeLabs/extension-manifest-converter)でManifest V3に移行
 
 ## 参考
 
